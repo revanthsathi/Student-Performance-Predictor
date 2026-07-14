@@ -1,0 +1,1 @@
+Open the folder that you have created in VS code and run "streamlit run app.py" in terminal
