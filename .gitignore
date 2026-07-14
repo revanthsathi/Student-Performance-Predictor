@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# SQLite database (generated automatically)
+student_performance.db
+
+# OS files
+.DS_Store
+Thumbs.db
