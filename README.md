@@ -90,4 +90,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Kavya Sri Chinni**
+**Revanth Sathi**
