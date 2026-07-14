@@ -1,2 +1,1 @@
 Open the folder that you have created in VS code and run "streamlit run app.py" in terminal
-To view the database, type python "view_database.py" in terminal. Then type table name as predictions, you can access all the database.
